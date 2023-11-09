@@ -1,0 +1,61 @@
+#bd1{
+    background-color: goldenrod;
+}
+#h{
+    text-align: center;
+}
+.tc{
+    color: black;
+}
+#d1{
+    float: left;
+    width: 40%;
+    margin: 20px;
+    border-width: 50%;
+    border-color: black;
+    background: white;
+		padding: 10px;
+		border-radius: 15px;
+    text-align: center;
+    height: 50%;
+    
+}
+#d2{
+    text-align: center;
+    margin: 20px;
+    width: 40%;
+    float: right;
+    border-width: 50%;
+    border-color: black;
+    background: white;
+		padding: 10px;
+		border-radius: 15px;
+    height: 50%;
+}
+
+#Tt{
+    text-align: center;
+}
+
+#bd{
+    background-color: cornflowerblue;
+}
+
+.profile{
+    width: 20%;
+}
+
+#u{
+    text-align: center;
+    margin-left: 35%;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
